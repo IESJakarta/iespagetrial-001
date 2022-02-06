@@ -21,7 +21,7 @@
           Jakarta.
         </h1>
       </div>
-    </div>
+    </div> 
     <div class="innercolumns">
       <div class="item1">
         <a
